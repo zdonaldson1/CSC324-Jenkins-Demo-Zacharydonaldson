@@ -5,7 +5,7 @@ public class Calculator {
     public int divide(int a, int b) {
         if (b == 0) throw new IllegalArgumentException("Cannot divide by zero");
         return a / b;
-// test webhook trigger
     }
 }
 // This is a test.
+// test webhook trigger
